@@ -7,3 +7,4 @@
 - Maze -> https://codeforces.com/problemset/problem/377/A
 - Escape The Maze (easy version) -> https://codeforces.com/problemset/problem/1611/E1
 - Highways -> https://www.spoj.com/problems/HIGHWAYS/en/
+- Dijkstra? -> https://codeforces.com/problemset/problem/20/C
