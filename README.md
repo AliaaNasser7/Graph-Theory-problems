@@ -12,3 +12,4 @@
 - Bombs! NO they are Mines!! -> https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1594
 - Text Editor -> https://codeforces.com/problemset/problem/253/C
 - Solve The Maze -> https://codeforces.com/problemset/problem/1365/D
+-  It is all about wisdom -> https://codeforces.com/gym/100814/problem/G
